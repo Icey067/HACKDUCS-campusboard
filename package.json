@@ -1,0 +1,24 @@
+{
+  "name": "hackducs-2026",
+  "version": "1.0.0",
+  "description": "CampusBoard is a unified college notice and opportunity hub for Indian students.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icey067/HACKDUCS-campusboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Icey067/HACKDUCS-campusboard/issues"
+  },
+  "homepage": "https://github.com/Icey067/HACKDUCS-campusboard#readme",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
